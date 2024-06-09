@@ -23,16 +23,16 @@ const CartModal = () => {
                 className="object-cover rounded-md"
               />
               <div className="flex flex-col justify-between w-full">
-                {/* Top */}
+                {/* TOP */}
                 <div className=""></div>
-                {/* Title */}
+                {/* TITLE */}
                 <div className="flex items-center justify-between gap-8">
                   <h3 className="font-semibold">Product Name</h3>
                   <div className="p-1 bg=gray-50 rounded-sm">$49</div>
                 </div>
-                {/* Desc */}
+                {/* DESC */}
                 <div className="text-sm text-gray-500">available</div>
-                {/* Bottomss */}
+                {/* BOTTOM */}
                 <div className="flex justify-between text-sm">
                   <span className="text-gray-500">Qty. 2</span>
                   <span className="text-blue-500">Remove</span>
